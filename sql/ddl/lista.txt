@@ -1,0 +1,35 @@
+ O volume na unidade C ‚ OS
+ O N£mero de S‚rie do Volume ‚ 3626-5667
+
+ Pasta de C:\Users\douglas_ulian\repos\r-project\data\scripts\sql\ddl
+
+14/04/2018  23:03    <DIR>          .
+14/04/2018  23:03    <DIR>          ..
+06/04/2018  14:25               378 create_database.sql
+06/04/2018  14:25             7.347 create_function_get_sample.sql
+06/04/2018  14:25             2.113 create_function_import.sql
+06/04/2018  14:25             2.553 create_function_import_articles.sql
+06/04/2018  14:25             1.651 create_function_import_classifications.sql
+06/04/2018  14:25             7.894 create_function_import_events.sql
+06/04/2018  14:25             1.179 create_function_import_newsletter_categories.sql
+06/04/2018  14:25             4.232 create_function_import_newsletter_optins.sql
+06/04/2018  14:25               281 create_function_import_users.sql
+06/04/2018  14:25             7.413 create_function_split_sample.sql
+06/04/2018  14:25               221 create_sq_tag_id.sql
+06/04/2018  14:25             1.065 create_table_articles.sql
+06/04/2018  14:25               239 create_table_articles_raw.sql
+06/04/2018  14:25               600 create_table_articles_tags.sql
+06/04/2018  14:25               617 create_table_classifications.sql
+06/04/2018  14:25               588 create_table_classifications_raw.sql
+06/04/2018  14:25               763 create_table_classification_path_levels.sql
+06/04/2018  14:25             2.253 create_table_events.sql
+06/04/2018  14:25             1.050 create_table_events_raw.sql
+06/04/2018  14:25               680 create_table_newsletter_categories.sql
+06/04/2018  14:25             2.252 create_table_newsletter_optins_raw.sql
+06/04/2018  14:25               518 create_table_tags.sql
+06/04/2018  14:25               639 create_table_users.sql
+06/04/2018  14:25               832 create_table_users_newsletter_categories.sql
+06/04/2018  14:25               332 create_table_users_push_months.sql
+14/04/2018  23:03                 0 lista.txt
+              26 arquivo(s)         47.690 bytes
+               2 pasta(s)   424.970.395.648 bytes dispon¡veis
